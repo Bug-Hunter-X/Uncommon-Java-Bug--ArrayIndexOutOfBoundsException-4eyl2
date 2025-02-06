@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates an ArrayIndexOutOfBoundsException. This is a common runtime exception, but understanding its cause and prevention is crucial for robust code. The bug.java file contains the buggy code and bugSolution.java demonstrates how to fix the issue by carefully checking array bounds before accessing elements.
